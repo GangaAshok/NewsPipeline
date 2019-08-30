@@ -1,0 +1,17 @@
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\bin\Debug\netcoreapp2.1\NewsPipeline.Services.deps.json
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\bin\Debug\netcoreapp2.1\NewsPipeline.Services.runtimeconfig.json
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\bin\Debug\netcoreapp2.1\NewsPipeline.Services.runtimeconfig.dev.json
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\bin\Debug\netcoreapp2.1\NewsPipeline.Services.dll
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\bin\Debug\netcoreapp2.1\NewsPipeline.Services.pdb
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\bin\Debug\netcoreapp2.1\NewsPipeline.Domain.dll
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\bin\Debug\netcoreapp2.1\NewsPipeline.Domain.pdb
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\obj\Debug\netcoreapp2.1\NewsPipeline.Services.csprojAssemblyReference.cache
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\obj\Debug\netcoreapp2.1\NewsPipeline.Services.csproj.CoreCompileInputs.cache
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\obj\Debug\netcoreapp2.1\NewsPipeline.Services.RazorAssemblyInfo.cache
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\obj\Debug\netcoreapp2.1\NewsPipeline.Services.RazorAssemblyInfo.cs
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\obj\Debug\netcoreapp2.1\NewsPipeline.Services.AssemblyInfoInputs.cache
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\obj\Debug\netcoreapp2.1\NewsPipeline.Services.AssemblyInfo.cs
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\obj\Debug\netcoreapp2.1\NewsPipeline.Services.RazorTargetAssemblyInfo.cache
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\obj\Debug\netcoreapp2.1\NewsPipeline.Services.csproj.CopyComplete
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\obj\Debug\netcoreapp2.1\NewsPipeline.Services.dll
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Services\obj\Debug\netcoreapp2.1\NewsPipeline.Services.pdb

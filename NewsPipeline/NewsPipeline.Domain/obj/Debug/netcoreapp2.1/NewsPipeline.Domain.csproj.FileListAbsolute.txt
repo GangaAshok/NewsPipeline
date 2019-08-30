@@ -1,0 +1,11 @@
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Domain\bin\Debug\netcoreapp2.1\NewsPipeline.Domain.deps.json
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Domain\bin\Debug\netcoreapp2.1\NewsPipeline.Domain.runtimeconfig.json
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Domain\bin\Debug\netcoreapp2.1\NewsPipeline.Domain.runtimeconfig.dev.json
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Domain\bin\Debug\netcoreapp2.1\NewsPipeline.Domain.dll
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Domain\bin\Debug\netcoreapp2.1\NewsPipeline.Domain.pdb
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Domain\obj\Debug\netcoreapp2.1\NewsPipeline.Domain.csproj.CoreCompileInputs.cache
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Domain\obj\Debug\netcoreapp2.1\NewsPipeline.Domain.AssemblyInfoInputs.cache
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Domain\obj\Debug\netcoreapp2.1\NewsPipeline.Domain.AssemblyInfo.cs
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Domain\obj\Debug\netcoreapp2.1\NewsPipeline.Domain.dll
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Domain\obj\Debug\netcoreapp2.1\NewsPipeline.Domain.pdb
+D:\NewsPipeline\NewsPipeline\NewsPipeline.Domain\obj\Debug\netcoreapp2.1\NewsPipeline.Domain.csprojAssemblyReference.cache
