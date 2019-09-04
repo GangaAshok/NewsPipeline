@@ -1,0 +1,49 @@
+<div>
+  <app-header></app-header>
+
+  <div *ngIf="commented === true" class="modal_container">
+    <div class="modal_content">
+      <button>
+        <i class="fa fa-times" aria-hidden="true"></i>
+      </button>
+      Add your comments
+      <div class="form-check">
+        <input #box (keyup)="onKey(box.value)" />
+        <p>{{ values }}</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="news-article" *ngFor="let article of news">
+    <img
+      [routerLink]="['/home']"
+      *ngIf="article.urlToImage !== null; else elseBlock"
+      [src]="article.urlToImage"
+      height="100px"
+      width="100px"
+      alt=""
+    />
+    <ng-template #elseBlock>
+      <img class="icon" src="assets/no-icon.jpg"
+    /></ng-template>
+    <div class="item-list">
+      <div class="author-art">{{ article.author }}</div>
+      <div>{{ article.description }}</div>
+
+      <button
+        class="fa fa-thumbs-up "
+        (click)="isLiked(article)"
+        [ngClass]="{
+          select_icon: liked,
+          noSelected_icon: !liked
+        }"
+        aria-hidden="true"
+      ></button>
+      <button
+        class="fa fa-comment"
+        aria-hidden="true"
+        (click)="isCommented(article)"
+      ></button>
+    </div>
+  </div>
+</div>
